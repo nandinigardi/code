@@ -1,3 +1,4 @@
 # code
 python code
-print("hello world")
+print("hello world,hello friends")
+
